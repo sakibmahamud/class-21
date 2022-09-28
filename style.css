@@ -1,0 +1,53 @@
+
+.topp{
+    background-color: #fff;
+}
+
+/* ====================== */
+.majePar{
+    position: relative;
+}
+.maje {
+    position: absolute;
+    top: 40%;
+    left: 20%;
+}
+.blocksize{
+    font-size: 16px;
+    line-height: 29px;
+}
+
+.table_form{
+    background-color: #f8f9f9;
+}
+.testtable{
+    color: #007d48;
+    font-weight: 400;
+}
+.text{
+    font-size: 15px;
+}
+.trunc{
+    font-size: 14px;
+}
+
+.borderUtabo{
+    border-bottom: 0;
+}
+.boder{
+    border: 3px solid rgba(0, 0, 0, 0.05);
+}
+.bbottom{
+    border-bottom: 3px solid rgba(0, 0, 0, 0.05);
+}
+.btop{
+    border-top: 3px solid rgba(0, 0, 0, 0.05);
+}
+
+
+.image img {
+    width: 420px;
+    border: 1px solid #ddd;
+    padding: 4px;
+    border-radius: 5px;
+}
